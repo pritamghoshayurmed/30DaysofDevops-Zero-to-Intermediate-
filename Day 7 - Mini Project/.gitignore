@@ -1,0 +1,42 @@
+# Logs
+logs/
+*.log
+
+# Backups
+backups/
+
+# Build artifacts
+build/
+
+# Staging environment
+staging/
+
+# Test reports
+reports/
+
+# Application PID files
+*.pid
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*~
+
+# Version files
+version.txt
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
